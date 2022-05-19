@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alejoeie
-- I'm interested in embedded software, web development and data sciece.
+- I'm interested in embedded software, web development and data science.
 - 🌱 I’m currently developing a product development engineer role at Intel Corporation where I build complex test methods tasks in C# and Python.
 - 💞️ I’m looking to start my own Software Development entrepreneurship 
 - 📫 How to reach me: alezph96@gmail.com
