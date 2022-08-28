@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alejoeie
 - I'm interested in embedded software, web development and data science.
-- 🌱 I’m currently developing a product development engineer role at Intel Corporation where I build complex test methods tasks in C# and Python.
-- 💞️ HadIT founder.
+- 🌱 I’m currently developing a product development engineer role at Intel Corporation where I build complex test methods tasks in C# and Python, and use different DFT methodologies for covering all microprocessors scenarios and functionalities.
+- 💞️ Currently organizing a web development start up for creating innovative and up-to-date web applications, called HadIT.
 - 📫 How to reach me: alezph96@gmail.com
 
 <!---
