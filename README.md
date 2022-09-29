@@ -4,7 +4,7 @@
 - 💞️ Currently organizing a web development start up for creating innovative and up-to-date web applications, called HadIT.
 - 📫 How to reach me: alezph96@gmail.com
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alejoeie&show_icons=true&theme=bear" alt="alejo" width = 400/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoeie&hide=css,html&theme=tokyonight" />
 </p>
