@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Functional Verification<br>👯 I’m looking to acquire web development and cloud skills<br>🤝 I’m highly interested on Machine Learning <br>🌱 I’m currently learning Rust and Go languages to create awesome APIs. 
+🔭 I’m currently working on Software Engineering<br>👯 I’m looking to acquire web development and cloud skills<br>🤝 I’m highly interested on Machine Learning <br>🌱 I’m currently learning Rust and Go languages to create awesome APIs. 
 
 
 # 💻 Tech Stack:
